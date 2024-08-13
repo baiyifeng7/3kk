@@ -1,0 +1,10 @@
+﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
+47.236.125.62,2052,FALSE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",602,13.11
+47.236.125.62,2086,FALSE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",633,6.90
+47.236.125.62,2082,FALSE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",690,6.62
+47.236.125.62,8080,FALSE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",665,5.06
+220.73.100.39,20070,FALSE,NRT,JP,Asia Pacific,Tokyo,4766,Korea Telecom,287,2.98
+47.236.125.62,2095,FALSE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",652,1.67
+140.238.19.2,443,FALSE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,327,0.70
+47.236.125.62,8880,FALSE,NRT,JP,Asia Pacific,Tokyo,45102,"Alibaba US Technology Co., Ltd.",710,0.38
+129.154.203.153,2052,FALSE,NRT,JP,Asia Pacific,Tokyo,31898,ORACLE-BMC-31898,617,0.16
