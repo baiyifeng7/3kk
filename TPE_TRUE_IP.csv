@@ -1,0 +1,4 @@
+﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
+61.220.65.189,27114,TRUE,TPE,TW,Asia Pacific,Taipei,3462,Data Communication Business Group,264,1.69
+59.124.90.154,32495,TRUE,TPE,TW,Asia Pacific,Taipei,3462,Data Communication Business Group,268,1.69
+61.220.65.189,26832,TRUE,TPE,TW,Asia Pacific,Taipei,3462,Data Communication Business Group,259,1.50

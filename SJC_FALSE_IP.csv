@@ -1,0 +1,22 @@
+﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
+183.232.159.172,58888,FALSE,HKG,HK,Asia Pacific,Hong Kong,56040,China Mobile communications corporation,209,10.43
+185.146.173.20,2052,FALSE,SJC,US,North America,San Jose,13335,CLOUDFLARENET,735,6.89
+185.146.173.20,80,FALSE,SJC,US,North America,San Jose,13335,CLOUDFLARENET,730,5.81
+185.146.173.20,2082,FALSE,SJC,US,North America,San Jose,13335,CLOUDFLARENET,868,5.29
+132.226.236.61,2052,FALSE,SJC,US,North America,San Jose,31898,ORACLE-BMC-31898,527,4.19
+198.11.183.185,80,FALSE,SJC,US,North America,San Jose,45102,"Alibaba US Technology Co., Ltd.",371,1.99
+8.209.119.190,80,FALSE,SJC,US,North America,San Jose,45102,"Alibaba US Technology Co., Ltd.",785,1.56
+8.219.77.141,80,FALSE,SJC,US,North America,San Jose,45102,"Alibaba US Technology Co., Ltd.",816,1.39
+185.146.173.20,8880,FALSE,SJC,US,North America,San Jose,13335,CLOUDFLARENET,581,1.39
+8.212.41.98,8080,FALSE,SJC,US,North America,San Jose,45102,"Alibaba US Technology Co., Ltd.",447,1.37
+43.153.4.246,80,FALSE,SJC,US,North America,San Jose,132203,"Tencent Building, Kejizhongyi Avenue",368,1.02
+198.11.174.141,80,FALSE,SJC,US,North America,San Jose,45102,"Alibaba US Technology Co., Ltd.",377,0.67
+107.173.146.172,65443,FALSE,SJC,US,North America,San Jose,36352,AS-COLOCROSSING,370,0.61
+149.129.8.215,80,FALSE,SJC,US,North America,San Jose,45102,"Alibaba US Technology Co., Ltd.",418,0.46
+47.57.233.126,80,FALSE,SJC,US,North America,San Jose,45102,"Alibaba US Technology Co., Ltd.",486,0.33
+185.146.173.20,8080,FALSE,SJC,US,North America,San Jose,13335,CLOUDFLARENET,864,0.29
+47.57.14.118,80,FALSE,SJC,US,North America,San Jose,45102,"Alibaba US Technology Co., Ltd.",466,0.25
+185.146.173.22,8080,FALSE,SJC,US,North America,San Jose,13335,CLOUDFLARENET,790,0.25
+23.227.60.200,80,FALSE,SJC,US,North America,San Jose,13335,CLOUDFLARENET,860,0.17
+23.94.25.108,80,FALSE,SJC,US,North America,San Jose,36352,AS-COLOCROSSING,366,0.09
+47.57.245.232,80,FALSE,SJC,US,North America,San Jose,45102,"Alibaba US Technology Co., Ltd.",444,0.05
